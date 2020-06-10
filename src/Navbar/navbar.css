@@ -1,0 +1,28 @@
+.navbar{
+    border-bottom: solid grey;
+
+    background-image: linear-gradient(to bottom right,#F62E65,#Ce0033);
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+.link-span{
+    padding-right: 250px;
+    margin-top:40px;
+
+    
+}
+
+
+.logo{
+    border-radius: 50%;
+    font-weight: bold ;
+    text-shadow: 1px 1px 3px white;
+}
+
+.links{
+
+    text-decoration: none;
+    color:black;
+    margin-right: 40px;
+}
